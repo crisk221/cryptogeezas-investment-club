@@ -1,0 +1,13 @@
+[
+  {
+    "crypto": "ETH",
+    "amount": 0.04036701,
+    "price": 4905.48,
+    "transaction_fee": 1.98019802,
+    "total_cost": 199.99975823479997,
+    "type": "buy",
+    "date": "2025-07-16",
+    "notes": "Chaz bought through coinspot",
+    "timestamp": "2025-07-16T13:48:43.527419"
+  }
+]
